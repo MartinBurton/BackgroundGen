@@ -15,12 +15,9 @@
   "bugs": {
     "url": "https://github.com/MartinBurton/BackgroundGen/issues"
   },
-<<<<<<< HEAD
   "homepage": "https://github.com/MartinBurton/BackgroundGen#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   }
-=======
-  "homepage": "https://github.com/MartinBurton/BackgroundGen#readme"
->>>>>>> c863cb2d1fec47d1b8ed65b40e1233b70070d9d9
 }
+

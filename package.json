@@ -4,7 +4,7 @@
   "description": "Simple gradient background generator for css",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "live-server"
   },
   "repository": {
     "type": "git",
@@ -15,9 +15,6 @@
   "bugs": {
     "url": "https://github.com/MartinBurton/BackgroundGen/issues"
   },
-  "homepage": "https://github.com/MartinBurton/BackgroundGen#readme",
-  "dependencies": {
-    "lodash": "^4.17.11"
-  }
+  "homepage": "https://github.com/MartinBurton/BackgroundGen#readme"
 }
 

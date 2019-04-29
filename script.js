@@ -17,3 +17,5 @@ function setGradient() {
 
     css.textContent = body.style.background + ";";
 }
+
+body.addEventListener("onpageshow", setGradient);
